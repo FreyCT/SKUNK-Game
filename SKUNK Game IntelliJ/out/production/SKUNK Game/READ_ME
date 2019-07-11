@@ -1,0 +1,26 @@
+
+Hello, Welcome to my Assignment 0 (SKUNK GAME)
+
+Just run the program from main to play the game.
+
+This Game consists of a "SKUNKGame.java" that sets up the game by calling its super class "Game.java", and by user-input prompts for
+customizing the game setting.
+
+Once the game is set up, the game will "start()" from a method call in the "Main.java". The Game runs off of 5 rounds, and for each round
+if conditions are met, the round will end and a new "round()" will start.
+
+Once the last round ends. The winner is announced, and you can restart the game with the same settings if you wish.
+
+BONUS POINTS
+    - Player v.s Computer
+    - Computer v.s Computer
+    - Catch for no players will automate two players into the game.
+    - Scalable amount of Dice to roll.
+    - Unlimited players to play, and Computer players
+    - 2 utility classes, "ScannerUtility.java" and "ASCIIArt.java"
+    - Readable and functional UI (User Interface)
+    - The use of inheritance
+    - The use of Overriding
+    - The use of abstract
+
+Author - Freyden Tolman - A00977928
